@@ -1,0 +1,2 @@
+# SpeechRec
+Continuous Speech Recognization 
